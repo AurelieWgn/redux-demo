@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3b78c87-09f1-46c5-8821-d145ab53b2bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../3WResto/app/src/main/java/com/example/a3wresto/activity/ConnexionActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3WResto/app/src/main/java/com/example/a3wresto/activity/FavoritesActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3WResto/app/src/main/java/com/example/a3wresto/model/ItemRecipe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3WResto/app/src/main/res/drawable/recipe_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3WResto/app/src/main/res/drawable/start_on.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/.idea/LPG.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/.idea/watcherTasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/desandro-matches-selector/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/desandro-matches-selector/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/desandro-matches-selector/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/desandro-matches-selector/matches-selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/ev-emitter/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/ev-emitter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/ev-emitter/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/ev-emitter/ev-emitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/fizzy-ui-utils/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/fizzy-ui-utils/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/fizzy-ui-utils/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/fizzy-ui-utils/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/get-size/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/get-size/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/get-size/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/get-size/get-size.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/masonry-layout/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/masonry-layout/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/masonry-layout/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/masonry-layout/dist/masonry.pkgd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/masonry-layout/dist/masonry.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/masonry-layout/masonry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/outlayer/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/outlayer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/outlayer/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/outlayer/item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/bower_components/outlayer/outlayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/fonts/Courier-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/fonts/Gotham-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/fonts/Gotham-Book.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/fonts/Gotham-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/fonts/Knockout-HTF30-JuniorWelterwt.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/fonts/Knockout-HTF52-Cruiserweight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/fonts/Knockout-HTF72-FullCruiserwt.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/fonts/Knockout-HTF73-FullHeviweight.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/fonts/Tungsten-Medium.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/fonts/Tungsten-Semibold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/Instagram_color.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/LPG.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/Logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/arrow-bottom.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/cross-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/deezer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/download.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/ecoute-mobile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/full-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/illustration-G.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/illustration-M.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/illustration-P.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/illustration-popUp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/img_logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/insta.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/next-p.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/pause.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/previus-p.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/previus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/question.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/rectangle-p.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/reseaux-menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/share.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/soptify.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/img/soundcloud.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/js/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/js/function.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/js/jquery.masonry.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/js/tracker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/lecture.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/desandro-matches-selector/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/desandro-matches-selector/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/desandro-matches-selector/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/desandro-matches-selector/matches-selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/desandro-matches-selector/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/desandro-matches-selector/tests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/desandro-matches-selector/tests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/ev-emitter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/ev-emitter/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/ev-emitter/ev-emitter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/ev-emitter/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/ev-emitter/sandbox/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/ev-emitter/test/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/fizzy-ui-utils/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/fizzy-ui-utils/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/fizzy-ui-utils/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/fizzy-ui-utils/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/fizzy-ui-utils/test/unit/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/fizzy-ui-utils/test/unit/filter-find-elements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/fizzy-ui-utils/test/unit/get-parent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/fizzy-ui-utils/test/unit/html-init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/fizzy-ui-utils/test/unit/make-array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/fizzy-ui-utils/test/unit/remove-from.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/fizzy-ui-utils/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/get-size/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/get-size/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/get-size/get-size.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/get-size/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/get-size/sandbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/get-size/test/iframe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/get-size/test/iframe3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/get-size/test/iframe4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/get-size/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/get-size/test/tests.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/get-size/test/tests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/add-on/jplayer.playlist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/add-on/jplayer.playlist.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/add-on/jquery.jplayer.inspector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/add-on/jquery.jplayer.inspector.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/jplayer/jquery.jplayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/jplayer/jquery.jplayer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/jplayer/jquery.jplayer.swf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/popcorn/popcorn.jplayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/popcorn/popcorn.jplayer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/blue.monday/css/jplayer.blue.monday.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/blue.monday/css/jplayer.blue.monday.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/blue.monday/image/jplayer.blue.monday.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/blue.monday/image/jplayer.blue.monday.seeking.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/blue.monday/image/jplayer.blue.monday.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.playlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/blue.monday/mustache/jplayer.blue.monday.audio.stream.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/blue.monday/mustache/jplayer.blue.monday.video.playlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/blue.monday/mustache/jplayer.blue.monday.video.single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/pink.flag/css/jplayer.pink.flag.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/pink.flag/css/jplayer.pink.flag.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/pink.flag/image/jplayer.pink.flag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/pink.flag/image/jplayer.pink.flag.seeking.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/pink.flag/image/jplayer.pink.flag.video.play.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/pink.flag/mustache/jplayer.pink.flag.audio.playlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/pink.flag/mustache/jplayer.pink.flag.audio.single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/pink.flag/mustache/jplayer.pink.flag.audio.stream.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/pink.flag/mustache/jplayer.pink.flag.video.playlist.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/dist/skin/pink.flag/mustache/jplayer.pink.flag.video.single.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jplayer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/dist/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/dist/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/dist/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/dist/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/dist/jquery.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/external/sizzle/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/external/sizzle/dist/sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/external/sizzle/dist/sizzle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/external/sizzle/dist/sizzle.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/ajax/jsonp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/ajax/load.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/ajax/parseXML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/ajax/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/ajax/var/location.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/ajax/var/nonce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/ajax/var/rquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/ajax/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/attributes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/attributes/attr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/attributes/classes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/attributes/prop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/attributes/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/attributes/val.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/callbacks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/DOMEval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/access.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/camelCase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/isAttached.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/nodeName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/parseHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/ready-no-deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/ready.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/readyException.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/stripAndCollapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/toType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/core/var/rsingleTag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/addGetHookIf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/adjustCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/curCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/finalPropName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/hiddenVisibleSelectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/showHide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/var/cssExpand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/var/getStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/var/isHiddenWithinTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/var/rboxStyle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/var/rnumnonpx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/css/var/swap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/data/Data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/data/var/acceptData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/data/var/dataPriv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/data/var/dataUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/deferred/exceptionHook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/deprecated.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/dimensions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/effects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/effects/Tween.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/effects/animatedSelector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/event/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/event/alias.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/event/focusin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/event/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/event/trigger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/exports/amd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/exports/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/manipulation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/manipulation/_evalUrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/manipulation/buildFragment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/manipulation/getAll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/manipulation/setGlobalEval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/manipulation/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/manipulation/var/rscriptType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/manipulation/var/rtagName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/manipulation/wrapMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/offset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/queue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/queue/delay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/selector-native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/selector-sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/serialize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/traversing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/traversing/findFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/traversing/var/dir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/traversing/var/rneedsContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/traversing/var/siblings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/ObjectFunctionString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/arr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/class2type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/concat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/documentElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/fnToString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/getProto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/hasOwn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/indexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/isFunction.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/isWindow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/pnum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/push.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/rcheckableType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/rcssNum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/rnothtmlwhite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/slice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/var/toString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/jquery/src/wrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/masonry-layout/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/masonry-layout/dist/masonry.pkgd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/masonry-layout/dist/masonry.pkgd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/masonry-layout/masonry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/masonry-layout/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/docs/item.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/docs/notes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/docs/outlayer.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/outlayer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/sandbox/browserify/browserify.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/sandbox/browserify/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/sandbox/cells-by-row.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/sandbox/cells-by-row.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/sandbox/examples.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/sandbox/fit-rows.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/sandbox/item-methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/sandbox/padding-percent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/sandbox/requirejs/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/sandbox/requirejs/requirejs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/sandbox/stagger.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/sandbox/toggler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/tests.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/add-items.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/basics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/container-size.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/create.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/declarative.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/destroy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/filter-find.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/get-measurements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/hide-reveal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/item-on-transition-end.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/jquery-plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/offset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/origin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/percent-position.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/prepend.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/remove.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/stamp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/node_modules/outlayer/test/unit/transition-duration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/programme.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/rakoon-dubbin-sailer.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/.sass-cache/3e7322832608a4e926f0933f5f76d6c664146bd5/general.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/.sass-cache/3e7322832608a4e926f0933f5f76d6c664146bd5/home.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/.sass-cache/3e7322832608a4e926f0933f5f76d6c664146bd5/programme.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/.sass-cache/e84e670d5a17794d62cd8775c44beb67c97ff040/home.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/.sass-cache/e84e670d5a17794d62cd8775c44beb67c97ff040/lecture.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/.sass-cache/e84e670d5a17794d62cd8775c44beb67c97ff040/programme.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/css/home.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/css/lecture.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/css/lecture.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/css/programme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/css/programme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/sass/.sass-cache/3e7322832608a4e926f0933f5f76d6c664146bd5/general.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/sass/home.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/sass/lecture.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LPG/style/sass/programme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyAndroidListsApplication/app/src/main/res/drawable/logolist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/semantic.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/src/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/src/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ReduxTutoFrançais/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../black-calandar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/components/Menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/components/elements/Buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/components/elements/Layout.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/components/elements/Title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/js/actionType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/js/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/js/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/js/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../buttonDesignSystem/testdesign/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/js/actions/actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/js/components/Form.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/js/components/Liste.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/js/components/Posts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/js/connexions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/js/constants/action-types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/js/middleware/middleware.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/js/reducers/reducer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/js/store/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reduxTuto/reduxtuto/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux_hooks_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../redux_hooks_demo/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.4125817">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/Home.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="90">
+                  <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/Nav.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="11" column="41" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="41" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/Recap.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="390">
+                  <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/CalculBox.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="26" column="97" selection-start-line="26" selection-start-column="97" selection-end-line="26" selection-end-column="97" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/App.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/actions/index.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/reducers/colorReducer.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="1" selection-start-line="1" selection-end-line="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/reducers/numberReducer.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="120">
+                  <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/components/BlueBox.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="360">
+                  <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/App.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="900">
+                  <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/components/PurpleBox.jsx">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="450">
+                  <caret line="30" column="71" selection-start-line="30" selection-start-column="71" selection-end-line="30" selection-end-column="71" />
+                  <folding>
+                    <element signature="e#0#26#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>yellow</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/store.js" />
+        <option value="$PROJECT_DIR$/src/components/Page1.jsx" />
+        <option value="$PROJECT_DIR$/src/components/calculBox.jsx" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/components/RedBox.jsx" />
+        <option value="$PROJECT_DIR$/src/components/YellowBox.jsx" />
+        <option value="$PROJECT_DIR$/src/components/PurpleBox.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Nav.jsx" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/components/CalculBox.jsx" />
+        <option value="$PROJECT_DIR$/src/actions/actions-types.jsx" />
+        <option value="$PROJECT_DIR$/src/actions/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/index.js" />
+        <option value="$PROJECT_DIR$/src/reducers/colorReducer.js" />
+        <option value="$PROJECT_DIR$/src/reducers/numberReducer.js" />
+        <option value="$PROJECT_DIR$/src/components/BlueBox.jsx" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/Home.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Recap.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="834" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="redux_demo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/aurelie-sandbox/redux_demo" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3b78c87-09f1-46c5-8821-d145ab53b2bb" name="Default Changelist" comment="" />
+      <created>1580820597699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580820597699</updated>
+      <workItem from="1580820598995" duration="711000" />
+      <workItem from="1580821402093" duration="7722000" />
+      <workItem from="1580904401931" duration="1299000" />
+      <workItem from="1580931789334" duration="307000" />
+      <workItem from="1582533533443" duration="956000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10995000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12698413" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.20306122" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.19081633" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/index.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/components/RedBox.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="39" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/actions-types.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="67" selection-start-column="67" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Nav.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Recap.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/CalculBox.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="97" selection-start-line="26" selection-start-column="97" selection-end-line="26" selection-end-column="97" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/actions/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/colorReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reducers/numberReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BlueBox.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="9" selection-start-line="60" selection-start-column="9" selection-end-line="60" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/About.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/PurpleBox.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="71" selection-start-line="30" selection-start-column="71" selection-end-line="30" selection-end-column="71" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
